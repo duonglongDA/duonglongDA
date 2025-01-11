@@ -4,7 +4,6 @@ I’m an Operation Staff. I'm currently working on Samsung Electronics Company
 
 Skills: Azure SQL/Power BI/ Pandas/ Numpy
 
-- 🔭 I’m currently working on this page. 
 
 
 
