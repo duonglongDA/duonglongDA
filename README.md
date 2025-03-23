@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Long
+### Hi there 👋, My name is Duong Long
 #### I’m looking for a new job about data analyst
 I’m an Operation Staff. I'm currently working on Samsung Electronics Company
 
